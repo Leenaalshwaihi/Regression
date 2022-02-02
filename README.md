@@ -1,4 +1,4 @@
-# Regression
+# Sephora Predict Product Price (Regression)
 
 # Sephora Predict Product Price
 
